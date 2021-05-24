@@ -74,7 +74,7 @@ let table = table_B3380
 /**
  * NTC 温度传感器图形块
  */
-//% weight=100 color=#1874CD icon="\uf2c8" block="B_温度传感器"
+//% weight=20 color=#Ffbc11 icon="\uf2c8" block="B_温度传感器"
 namespace NTCSenor {
     /**
      * 将 NTC 的 ADC 数据转换为温度
